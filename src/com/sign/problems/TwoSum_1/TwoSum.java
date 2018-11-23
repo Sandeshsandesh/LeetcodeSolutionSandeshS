@@ -1,4 +1,4 @@
-package com.sign.problems;
+package com.sign.problems.TwoSum_1;
 
 public class TwoSum {
         public int[] twoSum(int[] nums, int target) {
