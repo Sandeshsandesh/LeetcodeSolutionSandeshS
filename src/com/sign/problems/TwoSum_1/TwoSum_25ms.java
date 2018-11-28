@@ -1,8 +1,10 @@
 package com.sign.problems.TwoSum_1;
 
-public class TwoSum {
+/**
+ * O(n2) solution 25ms
+ */
+public class TwoSum_25ms {
         public int[] twoSum(int[] nums, int target) {
-            System.out.println(nums.length);
             for (int i = 0; i < nums.length - 1; i++) {
                 for (int j = i + 1; j < nums.length; j++) {
                     int sum = nums[i] + nums[j];
@@ -11,6 +13,7 @@ public class TwoSum {
                     }
                 }
             }
-            return new int[0];
+            //return new int[0];
+            throw new IllegalArgumentException("No solution");
         }
 }
