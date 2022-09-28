@@ -7,7 +7,7 @@ public class SearchRowColumnSorted2dMatrix {
         int row = 0;
         int column = n - 1;
 
-        // search space reduction. Start from top-right and work our way to bottom
+        // search space reduction. (Staircase search) Start from top-right and work our way to bottom
         while (row < m && column >= 0) {
             if (target == matrix[row][column]) {
                 return true;
