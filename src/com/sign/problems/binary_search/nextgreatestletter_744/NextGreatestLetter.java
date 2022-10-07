@@ -1,4 +1,4 @@
-package com.sign.problems.nextgreatestletter_744;
+package com.sign.problems.binary_search.nextgreatestletter_744;
 
 public class NextGreatestLetter {
     public char nextGreatestLetter(char[] letters, char target) {

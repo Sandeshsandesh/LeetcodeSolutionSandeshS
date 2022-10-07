@@ -1,4 +1,4 @@
-package com.sign.problems.firstandlastpositioninsortedarray_34;
+package com.sign.problems.binary_search.firstandlastpositioninsortedarray_34;
 
 import java.util.Arrays;
 

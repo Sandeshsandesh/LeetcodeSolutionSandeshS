@@ -1,4 +1,4 @@
-package com.sign.problems.splitarraylargestsum_410;
+package com.sign.problems.binary_search.splitarraylargestsum_410;
 
 public class SplitArrayLargestSum {
     public int splitArray(int[] nums, int m) {

@@ -1,4 +1,4 @@
-package com.sign.problems.MultiplyStrings_43;
+package com.sign.problems.math.MultiplyStrings_43;
 
 
 /*
@@ -14,7 +14,7 @@ import java.util.Arrays;
 
 class Solution {
     public String multiply(String num1, String num2) {
-        int result[] = new int[num1.length()+num2.length()];
+        int[] result = new int[num1.length()+num2.length()];
         Arrays.fill(result, 0);
         int resultIndex = result.length-1;
 

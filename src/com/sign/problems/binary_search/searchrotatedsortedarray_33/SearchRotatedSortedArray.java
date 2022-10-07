@@ -1,4 +1,4 @@
-package com.sign.problems.searchrotatedsortedarray_33;
+package com.sign.problems.binary_search.searchrotatedsortedarray_33;
 
 public class SearchRotatedSortedArray {
     public int search(int[] nums, int target) {

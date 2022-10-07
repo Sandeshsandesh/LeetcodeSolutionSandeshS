@@ -1,10 +1,8 @@
-package com.sign.problems.peakindexmountain_852;
+package com.sign.problems.binary_search.peakindexmountain_852;
 
 public class PeakIndexInMountainArray {
     /**
      * logn
-     * @param arr
-     * @return
      */
     public int peakIndexInMountainArray(int[] arr) {
         int low = 0;
@@ -30,8 +28,6 @@ public class PeakIndexInMountainArray {
      * Simple approach with logn
      * Comparison: a[i] < a[i+1]
      * TTTTFF (find first F)
-     * @param arr
-     * @return
      */
     public int binarySearchOverComparisonsApproachPeakIndexInMountainArray(int[] arr) {
         int low = 0;

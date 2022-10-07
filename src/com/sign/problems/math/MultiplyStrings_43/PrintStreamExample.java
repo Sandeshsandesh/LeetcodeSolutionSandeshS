@@ -1,4 +1,4 @@
-package com.sign.problems.MultiplyStrings_43;
+package com.sign.problems.math.MultiplyStrings_43;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 

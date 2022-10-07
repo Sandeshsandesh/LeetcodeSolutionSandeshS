@@ -1,4 +1,4 @@
-package com.sign.problems.search2dmatrix_74;
+package com.sign.problems.binary_search.search2dmatrix_74;
 
 public class SearchMatrixBinarySearchRowAndColumn {
     public boolean searchMatrix(int[][] matrix, int target) {

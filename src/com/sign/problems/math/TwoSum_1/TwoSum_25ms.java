@@ -1,4 +1,4 @@
-package com.sign.problems.TwoSum_1;
+package com.sign.problems.math.TwoSum_1;
 
 /**
  * O(n2) solution 25ms

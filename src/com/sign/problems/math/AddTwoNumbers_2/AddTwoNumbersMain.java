@@ -1,4 +1,4 @@
-package com.sign.problems.AddTwoNumbers_2;
+package com.sign.problems.math.AddTwoNumbers_2;
 
 class ListNode {
     int val;

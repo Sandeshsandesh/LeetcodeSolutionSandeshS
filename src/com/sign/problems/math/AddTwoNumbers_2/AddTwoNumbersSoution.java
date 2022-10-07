@@ -1,4 +1,4 @@
-package com.sign.problems.AddTwoNumbers_2;
+package com.sign.problems.math.AddTwoNumbers_2;
 
 public class AddTwoNumbersSoution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

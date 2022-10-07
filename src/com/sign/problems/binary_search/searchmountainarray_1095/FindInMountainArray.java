@@ -1,4 +1,4 @@
-package com.sign.problems.searchmountainarray_1095;
+package com.sign.problems.binary_search.searchmountainarray_1095;
 public class FindInMountainArray {
     public int findInMountainArray(int target, MountainArray mountainArr) {
 

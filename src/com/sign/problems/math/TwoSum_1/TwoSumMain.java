@@ -1,4 +1,4 @@
-package com.sign.problems.TwoSum_1;
+package com.sign.problems.math.TwoSum_1;
 
 public class TwoSumMain {
     public static void main(String[] args) {
